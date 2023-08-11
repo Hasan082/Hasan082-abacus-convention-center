@@ -2,22 +2,22 @@
     {
       "title": "The perfect venue for your next event",
       "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit",
-      "image": "https://github.com/Hasan082/abacus-convention-center-react/blob/main/src/assets/slider-image/slider-1.jpg"
+      "image": "https://raw.githubusercontent.com/Hasan082/abacus-convention-center-react/main/src/assets/slider-image/slider-1.jpg"
     },
     {
       "title": "Premier Convention Center Venue",
       "description": "Welcome to our premier convention center venue, the ideal choice for hosting conferences, exhibitions, and seminars.",
-      "image": "https://github.com/Hasan082/abacus-convention-center-react/blob/main/src/assets/slider-image/slider-2.jpg"
+      "image": "https://raw.githubusercontent.com/Hasan082/abacus-convention-center-react/main/src/assets/slider-image/slider-2.jpg"
   },
   {
       "title": "Flexible Spaces for Rent",
       "description": "Looking for flexible event spaces? Our convention center offers a range of versatile rooms that can be customized to meet your event's unique needs.",
-      "image": "https://github.com/Hasan082/abacus-convention-center-react/blob/main/src/assets/slider-image/slider-3.jpg"
+      "image": "https://raw.githubusercontent.com/Hasan082/abacus-convention-center-react/main/src/assets/slider-image/slider-3.jpg"
   },
   {
       "title": "All-Inclusive Convention Services",
       "description": "Experience seamless event planning with our all-inclusive convention services. Our team of experts will assist you with everything from room setup and audiovisual arrangements to catering and logistical coordination.",
-      "image": "https://github.com/Hasan082/abacus-convention-center-react/blob/main/src/assets/slider-image/slider-4.jpg"
+      "image": "https://raw.githubusercontent.com/Hasan082/abacus-convention-center-react/main/src/assets/slider-image/slider-4.jpg"
   }
   ]
   
