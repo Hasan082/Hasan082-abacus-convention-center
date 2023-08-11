@@ -34,12 +34,12 @@ const Slider = () => {
       {sliderData.map((singleData, index) => (
         <SwiperSlide key={index}>
           <div
-            className='imagebg bg-cover bg-center h-[calc(100vh-108px)]'
+            className='imagebg bg-cover bg-center h-[calc(100vh-108px)] flex items-center justify-center bg-opacity-50 bg-black bg-blend-overlay'
             style={{
               backgroundImage: `url(${singleData.image})`,
             }}
           >
-            <div className='Slider-inner-wrap text-white text-center space-y-4'>
+            <div className='Slider-inner-wrap text-white text-center space-y-4 max-w-3xl px-10'>
               <h2>{singleData?.title}</h2>
               <p>{singleData?.description}</p>
               <a href="#" className='btn'>
