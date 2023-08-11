@@ -5,6 +5,7 @@ span.swiper-pagination-bullet {
     width: 30px;
     height: 3px;
     border-radius: 0 !important;
+    background-color: #efefef;
 }
 span.swiper-pagination-bullet.swiper-pagination-bullet-active {
     background-color: #fff !important;
